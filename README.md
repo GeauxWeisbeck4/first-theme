@@ -17,4 +17,4 @@ This is the first theme of my Theme Garden. It is a cool layout.
 - [ ] Blog page styling
 
 ## Reach out to me with any questions!
-cool
+cooli
