@@ -18,4 +18,4 @@ This is the first theme of my Theme Garden. It is a cool layout.
 - [ ] Actually get started working on this
 
 ## Reach out to me with any questions!
-coolio dawg - I keep doing this just to keep my streak going/made up going. Hahahah I'm crazy
+coolio dawg - I keep doing this just to keep my streak going/made up going. Hahahah I'm crazyest
