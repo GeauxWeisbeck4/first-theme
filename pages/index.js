@@ -1,13 +1,15 @@
 import Head from 'next/head';
 import styles from '../styles/Home.module.css';
 
+import Header from '../components/Header.js';
+
 export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
         <title>First Theme</title>
       </Head>
-
+      <Header />
       <main className={styles.main}>
         <div class={styles.grid}>
           <h1>Welcome to First Theme.</h1>

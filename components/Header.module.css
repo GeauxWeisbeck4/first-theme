@@ -1,20 +1,3 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-* {
-  box-sizing: border-box;
-}
-
 .navbar {
   width: 100%;
   background-color: rgb(34, 143, 231);
@@ -27,6 +10,7 @@ a {
 
 .logo {
   display: inline-block;
+  color: #fff;
 }
 
 .navlinks {
@@ -38,15 +22,24 @@ a {
   display: inline-block;
   padding: 10px 15px;
   text-decoration: none;
-  color: white;
+  color: #fff;
 }
 
 .navitem:hover {
-  background-color: white;
-  color: black;
+  background-color: #fff;
+  color: rgb(8, 26, 78);
+  cursor: pointer;
 }
 
 .themeButton {
-  background-color: green;
-  color: white;
+  background-color: rgb(14, 163, 81);
+  color: #fff;
+  padding: 5px 10px;
+  border: 1px rgb(4, 51, 70) solid;
+  border-radius: 5px;
+}
+
+.themeButton:hover {
+  background-color: rgb(8, 83, 54);
+  cursor: pointer;
 }
